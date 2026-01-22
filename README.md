@@ -7,7 +7,7 @@ The chatbot is constrained through prompt engineering to respond only to chess-r
 For setup and configuration details, refer to the documenatation for:
 - [Nibbler](https://github.com/rooklift/nibbler)
 - [Stockfish chess engine](https://stockfishchess.org/)
-- [Ollama documentations](https://docs.ollama.com/)
+- [Ollama](https://docs.ollama.com/)
 
 The following tools/packages are being used:
 | Tool             | Version |
