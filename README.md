@@ -1,8 +1,8 @@
-# CSE 574 - Intro to ML: Final Project
+# Chess Engine with AI Tutor
 
-This project was developed for the CSE 547 - Intro to ML course, Spring 2025 offering, at the University at Buffalo.
+This is an AI chatbot integrated chess tutoring software meant to help new chess players learn faster. This project uses real-time chess analysis tool [Nibbler](https://github.com/rooklift/nibbler) and Ollama-hosted model to answer chess-related questions during the gameplay, helping people learn their mistakes without a human tutor.
 
-This is an AI chat bot integrated chess tutoring software meant to help new chess players learn faster. If you wish to learn more, please refer to our [Final Report](/Final_Report.pdf).
+![Game discussion](game-discussion.png)
 
 The following tools/packages are being used:
 | Tool             | Version |
