@@ -1,4 +1,4 @@
-# Chess Engine with AI Tutor
+# AI Chess Tutor
 
 This is an AI-powered chess tutoring application to help players learn more efficiently. The project integrates real-time chess analysis via [Nibbler](https://github.com/rooklift/nibbler) and the [Stockfish chess engine](https://stockfishchess.org/), along with Ollama-hosted language model to answer chess-related questions in context. 
 
